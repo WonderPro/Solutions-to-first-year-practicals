@@ -12,3 +12,7 @@ ____
 
 
 Please feel free to contribute. Please remember that this repository is for helping students and not encouraging in any malpractises. Anti-plagarism measures taken by the college will detect this code and strict action will be taken against you, hence refrain from copying any part of this material. Please do not use this repository to just copy paste the code or the solutions. Try to understand this on your own and then try it out. For any doubts, please [raise an issue](https://github.com/Aatmaj-Zephyr/Solutions-to-first-year-practicals/issues/new?assignees=Aatmaj-Zephyr&labels=Doubt&template=doubt.md&title=Doubt) for seeking help.
+
+
+Introduction to GIthub session recording-
+https://somaiya0.sharepoint.com/sites/WonderPro21/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20220608_194037-Meeting%20Recording.mp4?web=1
